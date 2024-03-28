@@ -1,0 +1,5 @@
+*.R linguist-language=R
+*.qmd linguist-language=R
+*.Rproj linguist-language=R
+*.html linguist-language=R
+*.pdf linguist-language=R
